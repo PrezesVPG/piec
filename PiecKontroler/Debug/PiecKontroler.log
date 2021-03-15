@@ -1,0 +1,12 @@
+﻿  15min.cpp
+C:\Users\Workstation\Desktop\Projekty\C++\PiecKontroler\PiecKontroler\15min.cpp(21,7): warning C4101: "i": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Workstation\Desktop\Projekty\C++\PiecKontroler\PiecKontroler\15min.cpp(197,7): warning C4101: "i1": lokalna zmienna, do której nie istnieje odwołanie
+  30min.cpp
+C:\Users\Workstation\Desktop\Projekty\C++\PiecKontroler\PiecKontroler\30min.cpp(21,7): warning C4101: "i": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Workstation\Desktop\Projekty\C++\PiecKontroler\PiecKontroler\30min.cpp(242,7): warning C4101: "i1": lokalna zmienna, do której nie istnieje odwołanie
+  PiecKontroler.cpp
+  test.cpp
+C:\Users\Workstation\Desktop\Projekty\C++\PiecKontroler\PiecKontroler\test.cpp(17,6): warning C4101: "i": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Workstation\Desktop\Projekty\C++\PiecKontroler\PiecKontroler\test.cpp(38,6): warning C4101: "i1": lokalna zmienna, do której nie istnieje odwołanie
+  Generowanie kodu...
+  PiecKontroler.vcxproj -> C:\Users\Workstation\Desktop\Projekty\C++\PiecKontroler\Debug\PiecKontroler.exe
